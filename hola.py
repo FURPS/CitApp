@@ -1,3 +1,3 @@
 # hola.py
 # Fichero Python de pruebas
-print("Hola, mundo Python!")
+print("Hola, mundo! Bienvenidos a Python")
